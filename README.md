@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+App de Recetario de Comidas. 
 
 ## Getting Started
 
